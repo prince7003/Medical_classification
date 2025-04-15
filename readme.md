@@ -81,20 +81,3 @@ Some models used in this project (particularly Gemma-3-1B-IT and Llama 3) are ga
 1. Request access to these models on the Hugging Face Hub
 2. Generate a Hugging Face token
 3. Authenticate using the token in the notebook
-
-## Citation
-
-If you use this work, please cite:
-
-```
-@misc{medical_specialty_classification_llms,
-  author = {[Your Name]},
-  title = {Fine-Tuning LLMs for Healthcare Applications},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/[your-username]/[repo-name]}
-}
-```
-
----
-Answer from Perplexity: pplx.ai/share
